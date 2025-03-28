@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "text": "Field Sensor Overview",
+        "attributes": "Background Image",
+        "icon": "/Images/sensor.svg",
+        "image": "/Images/sensor.jpg",
+        "link": "/dashboard/sensor"
+    },
+    {
+        "id": 2,
+        "text": "Field Analysis Gallery",
+        "attributes": "Background Image",
+        "icon": "/Images/drone.svg",
+        "image": "/Images/drone.jpg",
+        "link": "/dashboard/drone"
+    },
+    {
+        "id": 3,
+        "text": "Manual Control Panel",
+        "attributes": "Background Image",
+        "icon": "/Images/control.svg",
+        "image": "/Images/control.jpg",
+        "link": "/dashboard/control"
+    },
+    {
+        "id": 4,
+        "text": "Charts and Analytics",
+        "attributes": "Background Image",
+        "icon": "/Images/charts.svg",
+        "image": "/Images/charts.jpg",
+        "link": "/dashboard/charts"
+    }
+]

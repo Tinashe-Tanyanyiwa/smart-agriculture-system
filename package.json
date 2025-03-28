@@ -1,0 +1,44 @@
+{
+  "name": "smart-agriculture-system",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@directus/sdk": "^17.0.2",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fontsource/open-sans": "^5.2.5",
+    "@fontsource/poppins": "^5.2.5",
+    "@mui/icons-material": "^5.17.1",
+    "@mui/material": "^5.17.1",
+    "@types/react-transition-group": "^4.4.12",
+    "framer-motion": "^11.18.2",
+    "js-cookie": "^3.0.5",
+    "next": "^15.2.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-material-ui-carousel": "^3.4.2",
+    "react-router-dom": "^6.30.0",
+    "react-scroll": "^1.9.3",
+    "react-spinners": "^0.14.1",
+    "react-to-print": "^3.0.5",
+    "react-typing-effect": "^2.0.5",
+    "react-virtuoso": "^4.12.5",
+    "sharp": "^0.33.5",
+    "typewriter-effect": "^2.21.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.4",
+    "typescript": "^5"
+  }
+}

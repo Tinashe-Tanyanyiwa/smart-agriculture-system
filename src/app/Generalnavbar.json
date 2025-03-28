@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "link": "/dashboard",
+      "attribute": "Home",
+      "function": ""
+    },
+    {
+      "id": 2,
+      "link": "/dashboard/sensor",
+      "attribute": "Sensors",
+      "function": ""
+    },
+    {
+      "id": 3,
+      "link": "/dashboard/image",
+      "attribute": "Field Gallery",
+      "function": ""
+    },
+    {
+      "id": 4,
+      "link": "/dashboard/control",
+      "attribute": "Control Panel",
+      "function": ""
+    },
+    {
+      "id": 5,
+      "link": "/",
+      "attribute": "Logout",
+      "function": "logout"
+    }
+  ]
